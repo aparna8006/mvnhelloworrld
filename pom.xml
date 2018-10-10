@@ -49,9 +49,9 @@
     </build>
        	<distributionManagement>
 		<repository>
-			<id>SNAPSHOT</id>
+			<id>test</id>
 			<name>myrepo</name>
-			<url>http://172.25.1.4:8081/artifactory/myrepo/</url>
+			<url>http://172.25.1.4:8081/artifactory/test/</url>
 		</repository>
 			</distributionManagement>
 
